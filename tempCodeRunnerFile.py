@@ -1,0 +1,1 @@
+python -m streamlit run "C:\AI ML\Invoice Intelligence Project\app.py" 
